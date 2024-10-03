@@ -7,10 +7,10 @@ No | Nama | Kelas
 4  | Ajag | IF23B
 """
 
-Data_list = [{"Nama": "Haikal", "Nama": "Mr. Santai", 
-              "Nama": "Kisah", "Nama": "Ajag"},
-             
-             {"Kelas": "IF21B", "Kelas": "IF21B", 
-              "Kelas": "IF22C", "Kelas": "IF23B"}
-            ]
+Dataset = {'No': 1, 'Nama': 'Haikal', 'Kelas': 'IF21B', 
+           'No': 2, 'Nama': 'Mr. Santai', 'Kelas': 'IF21B',
+           'No': 3, 'Nama': 'Kisah', 'Kelas': 'IF22C',
+           'No': 4,'Nama': 'Ajag', 'Kelas': 'IF23B'
+          }
 
+#DONE
